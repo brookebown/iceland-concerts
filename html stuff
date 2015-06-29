@@ -1,0 +1,115 @@
+html stuff
+<h4>
+			<div class="panel panel-default">
+		  <div class="panel-heading" style="background:pink;" >Rae Sremmurd</div>
+		  <div class="panel-body" style="position: flex;">
+		    <ol>
+		    	<li>DATE:  27. 08 2015 Thursday</li>
+		    	<li>TIME:  19:30</li>
+		    	<li>PRICE:  12.990 kr. 7.990 kr.</li>
+		    	<li>LOCATION:  Laugardalshöll
+		    		
+		    		<ul>
+		    			<li>Engjavegur 8</li>
+						<li>104 Reykjavík</li>
+					</ul>
+					<img src="http://www.billboard.com/files/styles/promo_650/public/media/rae-sremmurd-bb1-2015-billboard-650-1.jpg?itok=0EQ8v8_b" class="img-rounded" style="width:300px; height:150px;"/>
+			</ol>
+		   </div>
+		</div>
+		</h4>
+
+<! Kaleo --> 
+		<h4>
+		<div class="panel panel-default">
+		  <div class="panel-heading"style="background:pink;">
+		    <h3 class="panel-title">Kaleo</h3>
+		  </div>
+		  <div class="panel-body">
+		    <ol>
+				<li>DATE:  11. 07 2015 Saturday</li>
+				<li>TIME:  21:00</li>
+				<li>PRICE:  4.990 kr.</li>
+				<li>LOCATION:  Gamla Bíó
+					<ul>
+						<li>Ingólfsstræti 2a</li>
+						<li>101 Reykjavík</li>
+					</ul>
+					<img src="http://officialkaleo.com/images/kaleo-tourbg.jpg?1"class="img-rounded" style="width:300px; height:150px;"/>
+		    </ol>
+		  </div>
+		</div>
+		</h4>
+
+<!-- Sónar Reykjavík 2016 -->
+		<h4>
+		<div class="panel panel-default">
+		  <div class="panel-heading"style="background:pink;">
+		    <h3 class="panel-title">Sónar Reykjavík 2016</h3>
+		  </div>
+		  <div class="panel-body">
+		    <ol>
+				<li>DATE:  18. 02 2016 Thursday</li>
+				<li>TIME:  18:00</li>
+				<li>PRICE:  12.990 kr.</li>
+				<li>LOCATION:  Harpa
+					<ul>
+						<li>Austurbakki 2</li>
+						<li>101 Reykjavík</li>
+					</ul>
+					<img src="http://static-cms.sonar.es/sonarReikiavik/uploads/images/s/k/r/SKRILL_5-general_Jason-Nocito-1.jpg" class="img-rounded" style="width:300px; height:150px;"/>
+		    </ol>
+		  </div>
+		</div>
+		</h4>
+
+<!-- Innipúkinn 2015 -->
+		<h4>
+		<div class="panel panel-default">
+		  <div class="panel-heading"style="background:pink;">
+		    <h3 class="panel-title">Innipúkinn 2015</h3>
+		  </div>
+		  <div class="panel-body">
+		    <ol>
+				<li>DATE:  31. 07 2015</li>
+				<li>TIME:  21:00</li>
+				<li>PRICE:  6.990 kr.</li>
+				<li>LOCATION:  Húrra og Gaukurinn
+
+					<ul>
+						<li>Tryggvagata 22</li>
+						<li>101 Reykjavík</li>
+					</ul>
+					<img src="http://iceblah.typepad.com/.a/6a00e5539e87e7883401b8d0f065d5970c-pi" class="img-rounded" style= "width:300px;height:150px;" />
+		    </ol>
+		  </div>
+		</div>
+		</h4>
+
+<!-- Snoop Dogg -->
+		<h4>
+		<div class="panel panel-default">
+		  <div class="panel-heading"style="background:pink;">
+		    <h3 class="panel-title">Snoop Dogg</h3>
+		  </div>
+		  <div class="panel-body">
+		    <ol>
+				<li>DATE:  16. 07 2015 Thursday</li>
+				<li>TIME:  20:00</li>
+				<li>PRICE:  8.990 kr.</li>
+				<li>LOCATION:  Laugardalshöll
+
+					<ul>
+						<li>Engjavegur 8</li>
+						<li>104 Reykjavík</li>
+					</ul>
+					<img src="http://ucsdguardian.org/wp-content/uploads/2015/04/snoopdogg_courtesy-of-the-drum.jpg"class="img-rounded" style="width:300px; height:150px;"/>
+		    </ol>
+		  </div>
+		</div>
+		</h4>
+		<h1 style="text-align:center">-YOU'RE WELCOME-</h1>
+	</body>
+	<script type="text/javascript" src="app.js"></script>
+</html> -->
+ -->
